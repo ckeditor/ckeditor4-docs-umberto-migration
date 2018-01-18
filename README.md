@@ -1,0 +1,1 @@
+This repository is just a temporary backup of some ckeditor-docs files. Only for internal use. Please visit [CKEditor 4 Official Documentation repository](https://github.com/ckeditor/ckeditor-docs)
